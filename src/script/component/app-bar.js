@@ -17,7 +17,7 @@ class AppBar extends HTMLElement {
       box-sizing: border-box;
       }
       :host {
-        padding: 8px;
+        padding: 30px;
         width: 100%;
         background-color: rgb(63, 78, 79);
         color: white;
@@ -32,7 +32,6 @@ class AppBar extends HTMLElement {
       color: aliceblue;
       }
       </style>
-      
       <h2>Movie Star World</h2>
     `;
   }

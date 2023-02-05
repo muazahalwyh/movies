@@ -13,7 +13,7 @@ class FooterBar extends HTMLElement {
         <style>
         .footer {
             background-color: rgb(63, 78, 79);
-            padding: 20px;
+            padding: 3px;
             text-align: center;
             font-weight: bold;
             color: black;
